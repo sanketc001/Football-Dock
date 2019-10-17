@@ -38,3 +38,6 @@ npm start
 ![screenshot of app](screenshot1.png)  ![screenshot of app](screenshot2.png)
 
 #### Built using [Electron](https://www.npmjs.com/package/electron) and packaged using [electron-packager](https://www.npmjs.com/package/electron-packager)
+
+
+Can I use the basic code and just change the database to make it a cricket scorekeeper?
